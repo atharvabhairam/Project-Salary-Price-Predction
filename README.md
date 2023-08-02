@@ -1,7 +1,5 @@
 **Project-Salary-Price-Prediction**
 
-![Project Logo](https://link-to-your-logo-image)
-
 ## Overview
 
 Welcome to the Project-Salary-Price-Prediction repository! This project aims to predict salary prices based on various features and data points. The repository contains all the necessary code, data, and documentation to help you understand and reproduce the results.
